@@ -10,7 +10,7 @@ The movie dataset was thoroughly cleaned and modeled in Power BI for effective a
 
 ## 📊 Data Visualizations in Power BI
 This dashboard uses clear and insightful visuals to present the movie industry landscape.
-### Charts & Visuals
+#### Charts & Visuals
 - 🎯 KPI Cards – Average IMDb Rating, Total Revenue, Total Movies, Total Studios, Total Industries
 - 📈 Bar Chart – Total Movies by Language
 - 📊 Column Charts – Movies by Currency and Studio
