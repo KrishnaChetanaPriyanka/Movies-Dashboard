@@ -19,7 +19,8 @@ This dashboard uses clear and insightful visuals to present the movie industry l
 - 🎛️ Slicers – Filter movies by Language, Studio, Currency, and Industry
 
 ## 🖼️ Dashboard Preview
-![Screenshot 2025-04-17 190834](https://github.com/user-attachments/assets/5a83a453-33ae-4516-bbdb-f2ab6b67e9e3)
+![image](https://github.com/user-attachments/assets/e18526d9-ca6a-4172-8274-941bbb8159ec)
+
 
 
 ## 🔍 Key Insights
